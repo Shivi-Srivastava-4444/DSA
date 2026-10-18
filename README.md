@@ -1,7 +1,8 @@
 # Data Structures Lab – C++
-
+Labsheets 1-4
 **Author:** Shivi Srivastava  
 **Course:** B.Tech CSE (AI/ML)  
+**Section:** A
 **CU ID:** CU25220139
 **Course Code:** BTCS209P  
 **Language:** C++
@@ -20,4 +21,3 @@ This repository contains C++ programs and practical assignments for learning and
 ## Technologies Used
 - C++
 - VS Code
-- Git and GitHub
