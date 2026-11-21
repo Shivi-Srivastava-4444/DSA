@@ -1,7 +1,7 @@
 # Data Structures Lab – C++
 Labsheets 1-4 
 
-**Author:** Shivi Srivastava  
+**Name:** Shivi Srivastava  
 **Course:** B.Tech CSE (AI/ML)  
 **Section:** A
 **CU ID:** CU25220139
